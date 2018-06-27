@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "49782829889",
+    "firebase_url": "https://mypicsapp-98535.firebaseio.com",
+    "project_id": "mypicsapp-98535",
+    "storage_bucket": "mypicsapp-98535.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49782829889:android:e3d223887960e600",
+        "android_client_info": {
+          "package_name": "demo.mypicsapp.com.mypicsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49782829889-0j5mh9scu5itb3aeh5okl29uie8vqmrg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "demo.mypicsapp.com.mypicsapp",
+            "certificate_hash": "c9d8912462a4e60a291d7d154a9457399a76163e"
+          }
+        },
+        {
+          "client_id": "49782829889-h05p9jk18kr5g38ukgrvjobblp3u65id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmSD9ykpWi8lI3Vt_eQu9rKGV4Faty2C4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49782829889-h05p9jk18kr5g38ukgrvjobblp3u65id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
